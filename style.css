@@ -1,0 +1,107 @@
+body {
+    font-family:Verdana;
+    font-weight:bold;
+    background-image: url("bg.jpg");
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    background-blend-mode:darken;
+    color:white;
+    padding:2%;
+    overflow-x:hidden;
+}
+
+#darken-element {
+    z-index:-100;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#content-box {
+    z-index:10;
+    text-align:center;
+}
+
+#main-pic {
+    border-radius:50%;
+    width:20%;
+}
+
+.header-text {
+    font-size:30pt;
+}
+
+.title-text {
+    font-size:25pt;
+}
+
+.description-text {
+    font-size:15pt;
+}
+
+.justify-box {
+    text-align:justify;
+}
+
+.name-text {
+    font-size:35pt;
+}
+
+.name-title-text {
+    font-size:25pt;
+}
+
+.footer-text {
+    font-size:10pt;
+}
+
+.center {
+    text-align:center;
+}
+
+#description-box {
+    text-align:left;
+    width:60%;
+    margin:auto;
+}
+
+@media (max-width: 768px) {
+    body {
+        background-size: 400vw 100vh;
+        background-position-x:50%;
+    }
+    .footer-text {
+        font-size:7pt;
+    }
+    .justify-box {
+        text-align:left;
+    }
+    .header-text {
+        font-size:25pt;
+    }
+    
+    .title-text {
+        font-size:20pt;
+    }
+    .name-text {
+        font-size:15pt;
+    }
+    .name-title-text {
+        font-size:12pt;
+    }
+    .description-text {
+        font-size:12pt;
+    }
+    #main-pic {
+        border-radius:50%;
+        width:35%;
+    }
+    #description-box {
+        text-align:left;
+        width:90%;
+        margin:auto;
+    }
+}
