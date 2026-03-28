@@ -1,0 +1,72 @@
+[
+   {
+        "image": "https://khianvictorycalderon.github.io/web_des/taroresto.png",
+        "title": "Taro Resto",
+        "link": "https://www.figma.com/proto/sjc3J7iXqbeNc15AOre3MR/Taro-Resto?hide-ui=1",
+        "desc": "A prototype UI only showcasing fictional restaurant menu.",
+        "tags": ["Figma"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_des/garylyn.png",
+        "title": "Gary Lyn (LHD)",
+        "link": "https://www.figma.com/proto/cfy1IQO2biVEW8xGApQ34m/GaryLyn-Furniture",
+        "desc": "Our PELEC201 school front-end midterm web design for a real business.",
+        "tags": ["Figma"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_des/exponentium.png",
+        "title": "Exponentium Construction",
+        "link": "https://www.figma.com/proto/O2s7sbAosoMeRAm3i4dhz4/Exponentium-Construction",
+        "desc": "A prototype showcasing a fictional construction brand.",
+        "tags": ["Figma"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_des/blissfulbrew.png",
+        "title": "Blissful Brew",
+        "link": "https://www.figma.com/proto/YJjyG6tEzQzJXEAefOHoXT/Blissful-Brew",
+        "desc": "My first collab web design about fictional coffee + milktea business website.",
+        "tags": ["Figma"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_des/quanty.png",
+        "title": "Quanty",
+        "link": "https://www.figma.com/proto/TBECwA0AOYVFczDP9Dxg6X/Quanty-Data-Analyzer",
+        "desc": "A prototype for a utility website.",
+        "tags": ["Figma"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_des/jexdoe.png",
+        "title": "Jex Doe",
+        "link": "https://www.figma.com/proto/ulKvojIjV0IbpqpwfLyvaz/Jex-Doe",
+        "desc": "A fictional lawyer portfolio website.",
+        "tags": ["Figma"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_des/clother.png",
+        "title": "Clother",
+        "link": "https://myloveblog.my.canva.site/clother",
+        "desc": "A fictional laundry business website.",
+        "tags": ["Canva"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_des/quebox.png",
+        "title": "QueBox",
+        "link": "https://www.figma.com/proto/AhKkM0dOTXX4DPZb6JKZrl/QueBox",
+        "desc": "A fictional non-profit environmental organization.",
+        "tags": ["Figma"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_des/myloveblog.png",
+        "title": "My Love Blog",
+        "link": "https://myloveblog.my.canva.site/",
+        "desc": "My first web design about love made using canva.",
+        "tags": ["Canva"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_des/pelec201activity.png",
+        "title": "Prototype Design",
+        "link": "https://www.figma.com/proto/ks7zJGVZvpMAzMp9cR9FsP/PELEC201-Mini-Activity-Calderon",
+        "desc": "My first official web design in my PELEC201 subject.",
+        "tags": ["Figma"]
+    }
+]

@@ -1,0 +1,255 @@
+{
+    "2019": [
+        {
+            "date": "2019",
+            "desc": "This year marked the beginning of my programming journey as a Grade 9 student at 15 years old. The first programming languages I learned were C for Arduino and ActionScript 2.0 for Flash 8 (which is now obsolete). My first Flash project was an animation using keyframes, and my first Arduino project was a simple LED flickering with a fixed time interval."
+        }
+    ],
+    "2020": [
+        {
+            "date": "2020",
+            "desc": "In 2020, I began diving deeper into C and C++ using Turbof C, expanding my knowledge of Arduino, and exploring game development with Flash 8. I focused on Flash 8 ActionScript 2.0 for game development, creating a few amateur and experimental games."
+        }
+    ],
+    "2021": [
+        {
+            "date": "2021",
+            "desc": "During Grade 11 at ARK, I worked on a few Arduino projects. We had a programming subject where we used VB.Net. Although I didn't enjoy VB.Net, I studied it to pass the subject. This year also marked my first exposure to HTML, CSS, and JavaScript. In my free time, I explored the DOM, scripting, client-side and server-side interactions, and complex JavaScript logic."
+        }
+    ],
+    "2022": [
+        {
+            "date": "2022",
+            "desc": "In Grade 12 at ARK, we transitioned from online classes to face-to-face learning. I took another programming course, but this time focused on Java (which is very different from JavaScript). This shift caused me to temporarily lose focus on HTML, CSS, and JavaScript, slowing my progress in web development."
+        }
+    ],
+    "2023": [
+        {
+            "date": "Early 2023",
+            "desc": "By early 2023, I returned to web development, focusing on HTML, CSS, and JavaScript, and started building a few vanilla websites."
+        },
+        {
+            "date": "May 3, 2023",
+            "desc": "I published my first website as part of a work immersion project during senior high school. You can find the project and its code <a style='color:#ff6f00;' class='underline' href=https://github.com/elevencrushtips target=_blank>here</a> on my separate GitHub account, titled 'Eleven Crush Tips'."
+        },
+        {
+            "date": "May - June 2023",
+            "desc": "During this period, I shifted my focus from web development to game development. I explored Unity 2D and moved away from Flash 8, which was no longer a viable option for game development."
+        },
+        {
+            "date": "July 3, 2023",
+            "desc": "I published my first game, <a style='color:#ff6f00;' class='underline' href=https://apkpure.com/blue-ball-2d/com.khianvictory.blueball2d target=_blank>Blue Ball 2D</a>, on the Google Play Store. It's a simple game similar to Flappy Bird, but with a vertical direction. This period marked the start of my exploration into both game and web development. <br/><b>Note: Although my apps have been removed from the Play Store due to inactivity in my Google Developer account, they are still accessible through other platforms.</b>"
+	},
+	{
+    	    "date": "August 23, 2023",
+            "desc": "I published my second game, <a style='color:#ff6f00;' class='underline' href=https://apkpure.com/clinx/com.khianvictory.clinx/download/1.1 target=_blank>Clinx</a>, which involved clicking a circle that appeared in the center of the screen before it disappeared. I was unsure if other games used this mechanic, so I thought I was the first to implement it. <br/><b>Note: Although my apps have been removed from the Play Store due to inactivity in my Google Developer account, they are still accessible through other platforms.</b>"
+	},
+        {
+            "date": "September 4, 2023",
+            "desc": "On my first day at SLSU Lucena in the Industrial Technology program, I realized that my true interest lies in software development, particularly web and game development, not hardware. My prior experience with Arduino helped me realize that hardware development was expensive and complex compared to software development. I completed my first semester but chose not to continue in the program."
+        },
+        {
+            "date": "Late 2023",
+            "desc": "After exploring various fields, including Arduino, Flash 8, Unity, and game development, I realized that web development was the most enjoyable for me. Game development, although exciting, was time-consuming and limited by my laptop's specs. In contrast, web development was fast, lightweight, and more accessible with no SDKs, complex installations, or platform restrictions. Thus, I decided to focus on mastering web development."
+        }
+    ],
+    "2024": [
+        {
+            "date": "January 19, 2024",
+            "desc": "I officially completed my first semester at SLSU but chose not to enroll for the second semester."
+        },
+        {
+            "date": "January 20, 2024 - March 2024",
+            "desc": "During this period, I redirected my focus to studying for the EPS-TOPIK (a Korean examination that could lead to work opportunities in South Korea). I studied the Korean language whenever I had free time, which left little time for web development."
+        },
+        {
+            "date": "March 25, 2024",
+            "desc": "I took the EPS-TOPIK exam in Ortigas, Manila. I scored 95/200, falling short of the passing score of 110. With this result, I decided to return to school."
+        },
+        {
+            "date": "April 25, 2024",
+            "desc": "I took the entrance exam for DLL College, passed, and got accepted a few months later. I repeated my first year of college and enrolled in the course I truly wanted: Information Technology."
+        },
+        {
+            "date": "May 2024",
+            "desc": "I began studying the basics of back-end systems, specifically PHP and MySQL, and their integration. I read PDFs that were 60 to 200 pages long to deepen my understanding."
+        },
+        {
+            "date": "July 2024",
+            "desc": "My curiosity led me to explore full-stack web development, so I began learning frameworks and libraries, focusing on React."
+        },
+        {
+            "date": "August 5, 2024",
+            "desc": "On my first day at DLL College, I started connecting with professors, peers, and programming communities to further my skills."
+        },
+        {
+            "date": "September - December 2024",
+            "desc": "I began working on React projects with the goal of adding them to my portfolio. These projects became a key part of my learning and development."
+        },
+        {
+            "date": "December 2024",
+            "desc": "I became more active on GitHub, understanding the platform's importance for collaboration and showcasing my projects as I prepare for post-graduation opportunities."
+        },
+        {
+            "date": "Late December 2024",
+            "desc": "I created tutorial lesson projects for my side hustle, 'Programming Tutor'. Though I only had one client (a classmate), the experience was valuable for learning how to teach programming."
+        }
+    ],
+    "2025": [
+        {
+            "date": "January 2025 - April 2025",
+            "desc": "I began working on projects that were more polished and professional, guided by my professors and peers."
+        },
+        {
+            "date": "April 2025",
+            "desc": "I started studying react-native, the structure look so much like react."
+        },
+        {
+            "date": "April 21, 2025",
+            "desc": "I started studying Django as part of requirement project by my private team of community."
+        },
+        {
+            "date": "Late April - Early May 2025",
+            "desc": "I was redirected away from web development again because I got distracted by our final project in Python, which involves team collaboration and requires my full attention. As a result, I also stopped studying Django and React Native."
+        },
+        {
+            "date": "May 10, 2025",
+            "desc": "We successfully defended our finals project in python <a style='color:#ff6f00;' class='underline' href=https://github.com/khianvictorycalderon/Treasury-Management-System>Treasury Management System</a>."
+        },
+        {
+            "date": "May 11, 2025",
+            "desc": "I decided to change my specialization from website to web, desktop, and mobile developer and also updated my portfolio as well."
+        },
+        {
+            "date": "May 19, 2025",
+            "desc": "After experimentation with PHP, I realized why many developers hate it. It's so much complicated, so I decided to just focus on React and Firebase for full stack websites, I do not like PHP anymore."
+        },
+        {
+            "date": "June 1, 2025",
+            "desc": "I started making python custom tkinter templates for faster project development in the future. Inspired by react component-based code templates."
+        },
+        {
+            "date": "June 15, 2025",
+            "desc": "I began exploring React Native in depth, covering the fundamentals, expo-router, state management, and more."
+        },
+        {
+            "date": "July 2, 2025",
+            "desc": "I terminated a major project deal with a client due to failure to comply with my project terms."
+        },
+        {
+            "date": "July 10, 2025",
+            "desc": "I started studying Flask for the upcoming Hackathon/CodeFest in OpenIT."
+        },
+        {
+            "date": "July 12-13, 2025",
+            "desc": "Our official OpenIT hackathon event, I learned a lot of experience and also collaboration with my seniors."
+        },
+        {
+            "date": "July 14, 2025",
+            "desc": "I started diving deep into Tailwind CSS, UIShadCN, React Icons, and as well as backend technologies."
+        },
+        {
+            "date": "July 17, 2025",
+            "desc": "I started studying Express JS."
+        },
+        {
+            "date": "July 18, 2025",
+            "desc": "I started studying MongoDB with the goal of learning the MERN stack. This also addressed my issue with React + Firebase, particularly the problem of exposed API keys."
+        },
+        {
+            "date": "July 19, 2025",
+            "desc": "I decided to switch to another tech stack, Next.js + Supabase, because it solves two issues I faced with my previous stacks: the deployment difficulties of MERN and the lack of a relational database in React + Firebase."
+        },
+        {
+            "date": "July 21, 2025",
+            "desc": "I published my first NextJS project: <a style='color:#ff6f00;' class='underline' href=https://kv-first-nextjs.vercel.app/ target=_blank>here</a>."
+        },
+        {
+            "date": "July 23, 2025",
+            "desc": "I started diving deep into Next.js + Supabase tech stack."
+        },
+        {
+            "date": "July 28, 2025",
+            "desc": "First day in 2nd year college, so my time for self-studying codes was reduced."
+        },
+        {
+            "date": "August 3, 2025",
+            "desc": "I decided to switch back to my sole specialization which is Web Development."
+        },
+        {
+            "date": "August 17, 2025",
+            "desc": "I started studying web design with Figma while also learning full-stack development with Next.js and Supabase, allowing me to study both fields in parallel."
+        },
+        {
+            "date": "August 28, 2025",
+            "desc": "I got my first real client."
+        },
+        {
+            "date": "Early October 2025",
+            "desc": "I faced a major problem when I got distracted with storyboarding and animation for my subject <b>Recommended Elective 1</b>, which isn’t related to web development."
+        },
+        {
+            "date": "November 4, 2025",
+            "desc": "I started deeply studying back-end, specifically, Next.js + Supabase."
+        },
+        {
+            "date": "November 5, 2025",
+            "desc": "Along with deep study of the back-end, I am also exploring offline capability side of technology, specifically, indexedDB."
+        },
+        {
+            "date": "November 13, 2025",
+            "desc": "I switched from using Supabase APIs to using raw Postgresql so I can test my full-stack projects locally and deploy them without changing single line of codes."
+        },
+        {
+            "date": "November 15, 2025",
+            "desc": "I finally found one of my perfect tech stack: Next.js + Tailwind CSS + PostgreSQL for full-stack web system."
+        },
+        {
+            "date": "November 16, 2025",
+            "desc": "We started studying data analytics in our subject data structure and algorithms, and I somewhat developed an intereset in it."
+        },
+        {
+            "date": "December 25, 2025 at 2:20 PM (PH Time)",
+            "desc": "I finished developing Veroca, my first real full-stack website system project (compared to my previous semi full-stack projects with React + Firebase), officially becoming a <b>Full-Stack Developer</b>. I learned a lot with manual back-end management such as authorization, authentication, sessions, relational database, and so on..."
+        },
+	    {
+            "date": "December 30, 2025",
+            "desc": "I started studying back-end libraries such as <b><u>JWT or JSON Web Token</u></b>. This could be my last entry of this year."
+        }
+    ]
+    ,
+    "2026": [
+        {
+            "date": "January 3, 2026",
+            "desc": "I started re-learning PHP + MySQL tech stack as it has high demand in the market."
+        },
+        {
+            "date": "January 5, 2026",
+            "desc": "I published my first major website project in 2026 and my first PHP + MySQL (and Tailwind CSS) production demo ready project called <b>E-Commerce Demo.</b> It was fun revisiting my old tech stacks as a refresher."
+        },
+        {
+            "date": "January 6, 2026",
+            "desc": "I started studying Django again, but this time with deep focus and understanding, and as well as basic of Java."
+        },
+        {
+            "date": "January 8, 2026",
+            "desc": "I initially tried to learn Django quickly by building a demo project, but coming from a JavaScript background, I found its complexity challenging. I took a step back to focus on tech stacks I was already familiar with, though I might return to Django someday when I feel ready."
+        },
+        {
+            "date": "January 15, 2026",
+            "desc": "I finished developing my first role-based web system (for local network use only, not deployed) called <b><u>Borrow Book Monitoring System</u></b>. This is my 3rd real full-stack website project."
+        },
+        {
+            "date": "January 19, 2026",
+            "desc": "I decided to stay flexible and utilize all previously learned tech stacks instead of specializing in a single one."
+        },
+        {
+            "date": "January 22, 2026",
+            "desc": "I finished developing <b><u>Spending Tracker</u></b>, an internal web app that monitors users' spending and generates analytical insights. This is my first MERN (MongoDB + Express JS + React + Nodejs) production project, and also my first production project that uses data analytics."
+        },
+        {
+            "date": "February 10, 2026",
+            "desc": "I finished developing <b><u>Resbi: Resume Builder</u></b>, an automatic resume builder without drag and drop, just filling out forms. Generates resume in seconds."
+        }
+    ]
+}

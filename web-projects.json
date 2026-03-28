@@ -1,0 +1,149 @@
+[
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/resbi.png",
+        "title": "Resbi",
+        "link": "https://resbi.netlify.app/",
+        "desc": "An automatic online resume builder by just filling out forms without drag-and-drop.",
+        "tags": ["SEO", "Ad Network"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/spendingtracker.png",
+        "title": "Spending Tracker",
+        "link": "https://github.com/khianvictorycalderon/Spending-Tracker",
+        "desc": "An internal web system that tracks people's spending and generate analytics.",
+        "tags": ["Express JS", "MongoDB", "Vite React (Typescript)", "Tailwind CSS", "Local Network"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/borrowbookmonitoringsystem.png",
+        "title": "Borrow Book Monitoring System",
+        "link": "https://github.com/khianvictorycalderon/Borrow-Book-Monitoring-System",
+        "desc": "A role-based internal web system that logs borrowed books.",
+        "tags": ["PHP", "MySQL", "HTML", "Tailwind CSS", "JavaScript", "Local Network"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/e-commerce-demo.png",
+        "title": "E-Commerce Demo",
+        "link": "https://e-commerce-demo.infinityfreeapp.com/",
+        "desc": "A simple modern UI e-commerce demo website with dummy items.",
+        "tags": ["PHP", "MySQL", "HTML", "Tailwind CSS", "JavaScript", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/veroca.png",
+        "title": "Veroca",
+        "link": "https://veroca.vercel.app/",
+        "desc": "Order Management System, my first real full-stack website for sellers.",
+        "tags": ["Next.js", "PostgreSQL", "Tailwind CSS", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/etios.png",
+        "title": "ETIOS",
+        "link": "https://etios.netlify.app/",
+        "desc": "Employee Time In Out System, a simple monitoring system for businesses.",
+        "tags": ["HTML", "Tailwind CSS", "JavaScript + IndexedDB", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/garylyn.png",
+        "title": "Gary Lyn (LHD)",
+        "link": "https://khianvictorycalderon.github.io/PELEC201-Group3-Gary-Lyn/",
+        "desc": "Our PELEC201 school front-end finals web project for a real business.",
+        "tags": ["HTML", "Tailwind CSS", "JavaScript", "GitHub Action"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/exponentium.png",
+        "title": "Exponentium Construction",
+        "link": "https://exponentium.netlify.app/",
+        "desc": "A fictional construction contractor company website.",
+        "tags": ["Vite React (Typescript)", "Tailwind CSS", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/sorializer.png",
+        "title": "Sorializer",
+        "link": "https://sorializer.netlify.app/",
+        "desc": "A utility website that visualizes step by step sorting algorithm procedure.",
+        "tags": ["Vite React (Typescript)", "Tailwind CSS", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/quizcet.png",
+        "title": "Quizcet",
+        "link": "https://quizcet.netlify.app/",
+        "desc": "A simple review self-quiz developed for students to make learning easier & faster.",
+        "tags": ["HTML", "Tailwind CSS", "JavaScript + IndexedDB", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/quanty.png",
+        "title": "Quanty",
+        "link": "https://quanty.netlify.app/",
+        "desc": "A utility website that analyze data set with complete solution.",
+        "tags": ["Vite React (Typescript)", "Tailwind CSS", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/johndoe.png",
+        "title": "John Doe Portfolio",
+        "link": "https://khianvictorycalderon.github.io/John-Doe/",
+        "desc": "A demo music artist portfolio website.",
+        "tags": ["Vite React (Typescript)", "Tailwind CSS + Reactbits", "GitHub Branch"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/rolya.png",
+        "title": "Rolya",
+        "link": "https://khianvictorycalderon.github.io/Rolya/",
+        "desc": "A simple mock demo real-estate front-end landing page website.",
+        "tags": ["Vite React (Typescript)", "Tailwind CSS + Hyper UI", "GitHub Branch"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/coffevup.png",
+        "title": "Coffee Vup",
+        "link": "https://khianvictorycalderon.github.io/Coffee-Vup/",
+        "desc": "A simple front-end demo business website landing page.",
+        "tags": ["Vite React (Typescript)", "Tailwind CSS + Daisy UI", "GitHub Branch"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/apixer.png",
+        "title": "Apixer",
+        "link": "https://apixer.vercel.app/",
+        "desc": "A web project that fetches API endpoints with JSON payload.",
+        "tags": ["Vite React (Typescript)", "Tailwind CSS & UI", "API", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/stockims.png",
+        "title": "StockIMS",
+        "link": "https://stockims.netlify.app/",
+        "desc": "An inventory management system full-stack website with KV Bot Integration.",
+        "tags": ["Vite React (Typescript)", "Firebase", "Bootstrap", "Google Analytics", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/gengrade.png",
+        "title": "GenGrade",
+        "link": "https://gengrade.netlify.app/",
+        "desc": "A student grades management system full-stack website with KV Bot Integration.",
+        "tags": ["Vite React (Typescript)", "Firebase", "Bootstrap", "Google Analytics", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/chatterplex.png",
+        "title": "Chatterplex",
+        "link": "https://chatterplex.netlify.app/",
+        "desc": "A no sign-in real-time chat full-stack website system.",
+        "tags": ["Vite React (Typescript)", "Firebase", "Bootstrap", "Google Analytics", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/kvbot.png",
+        "title": "KV Chatbot",
+        "link": "https://kvbot.netlify.app/",
+        "desc": "A frontend rule-based non-NLP chatbot website manually trained from scratch .",
+        "tags": ["Vite React (Typescript)", "Bootstrap", "Google Analytics", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/unigma.png",
+        "title": "Unigma",
+        "link": "https://unigma.netlify.app/",
+        "desc": "Ultimate Enigma is a text encryption and decryption website based on custom key.",
+        "tags": ["Vite React (Typescript)", "Bootstrap", "Google Analytics", "SEO", "Deployment"]
+    },
+    {
+        "image": "https://khianvictorycalderon.github.io/web_proj/elevencrushtips.png",
+        "title": "Eleven Crush Tips",
+        "link": "https://elevencrushtips.github.io/",
+        "desc": "My first ever published website built with HTML and CSS only.",
+        "tags": ["HTML", "CSS", "GitHub Action"]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Web Designing",
+      "desc": "User Interface Prototyping"
+    },
+    {
+      "title": "Front-End Web Development",
+      "desc": "Designing, Engineering, and Responsiveness"
+    },
+    {
+      "title": "Full-Stack Web Development",
+      "desc": "Server Logic and Databases Integration"
+    },
+    {
+      "title": "Back-End Development",
+      "desc": "Microservices APIs"
+    }
+]
