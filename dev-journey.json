@@ -250,6 +250,10 @@
         {
             "date": "February 10, 2026",
             "desc": "I finished developing <b><u>Resbi: Resume Builder</u></b>, an automatic resume builder without drag and drop, just filling out forms. Generates resume in seconds."
+        },
+        {
+            "date": "March 26, 2026",
+            "desc": "I earned 1st place in our school’s hackathon coding competition. All those self-study sessions finally paid off, but this is just the start."
         }
     ]
 }
